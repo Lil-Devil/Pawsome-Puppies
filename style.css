@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color:azure;
+
+}
+
+img {
+    width:350px;
+        height:350px;
+}
+.picky {
+    display: flex;
+    justify-content: center;
+}
+
+#pic1,
+#pic2,
+#pic3,
+#pic4 {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+
+#pic3,
+#pic4 {
+    width:400px;
+    height:450px;
+    
+}
